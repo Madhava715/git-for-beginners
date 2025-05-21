@@ -1,4 +1,4 @@
-Welcome to my project
+Welcome to the "git for beginners" my project
 
 
 Author: sai ram udugula
